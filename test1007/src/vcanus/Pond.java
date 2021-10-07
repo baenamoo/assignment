@@ -28,7 +28,6 @@ public class Pond {
 					map[i][j] = st.nextToken().charAt(0);
 			}
 			
-
 			int sum = 0;
 			for(int i=0; i<N; i++) {
 				for(int j=0; j<N; j++) {

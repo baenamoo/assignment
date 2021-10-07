@@ -12,7 +12,7 @@ public class FactoryMethod {
 	
 	//bread 按眉 蒲配府皋家靛 积己 
 	//JSON 颇教 
-	//override..????
+	//override..???
 
 	public static void main(String[] args) throws ParseException {
 

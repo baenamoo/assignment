@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Test;
 
 public class testMethodChaining {
 	
-	@Test
     public void testMethodChain() {
         Calculator cal = new Calculator();
         
